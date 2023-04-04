@@ -31,7 +31,7 @@ SECRET_KEY = env("SECRET_KEY")
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['port-0-likelion-djangotest-a4y62alg0qwuv4.sel3.cloudtype.app', '127.0.0.1']
 
